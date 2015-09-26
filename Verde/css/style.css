@@ -53,7 +53,7 @@ h3 {
 
 .container {
 	margin: 0 auto;
-	width;
+	width: 80%;
 	overflow: auto;
 	clear: both;
 }
@@ -64,6 +64,13 @@ h3 {
 	overflow: auto;
 	width: 100%;
 	box-shadow: 0 3px 3px -3px;
+}
+
+.main-header .logo {
+	width: 25%;
+	float: left;
+	padding-top: 10px;
+
 }
 
 ul.list-group {
